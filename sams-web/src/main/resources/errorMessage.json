@@ -1,0 +1,17 @@
+[
+  {
+    "desc": "LOGIN_TIME_OUT",
+    "errorNo": "401",
+    "message": "登录失效"
+  },
+  {
+    "desc": "TOKEN_IS_NULL",
+    "errorNo": "1000",
+    "message": "token不可为空"
+  },
+  {
+    "desc": "ERROR_PARAM_IS_NULL",
+    "errorNo": "1001",
+    "message": "{0}不能为空!"
+  }
+]
